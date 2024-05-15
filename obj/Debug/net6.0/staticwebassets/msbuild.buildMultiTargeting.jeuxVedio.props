@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jeuxVedio.props" />
+</Project>
